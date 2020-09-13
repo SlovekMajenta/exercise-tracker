@@ -3,7 +3,7 @@ const app = express();
 const bodyParser = require('body-parser');
 
 var mongoose = require('mongoose');
-mongoose.connect('mongodb+srv://zigotaTestova:qN12HlAtSTYce87V@cluster0.a6zzn.mongodb.net/Cluster0?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect('mongodb+srv://**********:**********@cluster0.a6zzn.mongodb.net/Cluster0?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true });
 
 const absoluteIndex = __dirname + '/views/index.html';
 const absoluteStyle = __dirname + '/public';
