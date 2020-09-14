@@ -1,4 +1,4 @@
-# exercise-tracker
+# exercise-tracker-microservice
 ## exercise tracker assignment
 reference page here https://exercise-tracker.freecodecamp.repl.co/
 
